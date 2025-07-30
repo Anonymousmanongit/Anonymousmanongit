@@ -1,41 +1,60 @@
-<h1 align="center">Hi 👋, I'm Anonymousmanongit</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Anonymous</h1>
+<h3 align="center">Aspiring Software Engineer | DSA Enthusiast | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- 🔭 I’m currently working on **Data Structures & Algorithms**
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Open Source and DSA projects**
-- 💬 Ask me about **C++, Python, DSA, Git**
-- 📫 Reach me at: **anonymousmanongit@gmail.com**
-- ⚡ Fun fact: I debug better when coffee is involved ☕
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,git,github,vscode,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anonymousmanongit&show_icons=true&theme=tokyonight" alt="stats" />
+  <a href="https://linkedin.com/in/anonymous-developer-41b915187/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anonymousmanongit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Anonymousintrovert/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently improving my **Data Structures & Algorithms**
+- 🛠️ Learning **Full Stack Web Development**
+- 🤝 Looking to collaborate on **Open Source & DSA Projects**
+- 💬 Ask me about **C++, Java, Git, and Problem Solving**
+- 📫 Reach me: **anonymousmanongit@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anonymousmanongit&show_icons=true&theme=github_dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymousmanongit&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=Anonymousmanongit&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="mailto:anonymousmanongit@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-  <!-- Add LinkedIn if you want -->
+### 🧠 Problem Solving Stats
+- ✅ Over **X+** problems solved on [LeetCode](https://leetcode.com/u/Anonymousintrovert/) *(Update manually if you want exact number)*
+
+---
+
+### 🐍 Contribution Snake (Updated & Working)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anonymousmanongit/Anonymousmanongit/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake:
-![snake gif](https://github.com/Anonymousmanongit/Anonymousmanongit/blob/output/github-contribution-grid-snake.svg)
-
+### 📌 Let's Connect
+<p>
+  <a href="https://linkedin.com/in/anonymous-developer-41b915187/">LinkedIn</a> • 
+  <a href="mailto:anonymousmanongit@gmail.com">Gmail</a> • 
+  <a href="https://leetcode.com/u/Anonymousintrovert/">LeetCode</a>
+</p>
