@@ -20,7 +20,6 @@
 - 🌱 Currently learning **MERN Stack**
 - 🤝 Open to collaborating on **Open Source Projects & Coding Challenges**
 - 📫 Email: **raazamit085@gmail.com**
-- 🔗 Portfolio & Projects coming soon...
 
 ---
 
