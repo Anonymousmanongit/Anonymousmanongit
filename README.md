@@ -19,7 +19,7 @@
 - 🎯 Consistently practicing **Data Structures & Algorithms**
 - 🌱 Currently learning **MERN Stack**
 - 🤝 Open to collaborating on **Open Source Projects & Coding Challenges**
-- 📫 Email: **anonymousmanongit@gmail.com**
+- 📫 Email: **raazamit085@gmail.com**
 - 🔗 Portfolio & Projects coming soon...
 
 ---
