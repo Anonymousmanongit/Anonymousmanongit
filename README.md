@@ -57,7 +57,7 @@
 ### 🔗 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/anonymous-developer-41b915187/)
 - 🧠 [LeetCode](https://leetcode.com/u/Anonymousintrovert/)
-- 📬 Mail: anonymousmanongit@gmail.com
+- 📬 Mail: raazamit085@gmail.com
 
 ---
 
